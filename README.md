@@ -1,16 +1,10 @@
 # 👾 Thiago Parisotto | iOS Engineer & 2x Swift Challenge Winner
 
-**`Digital Craftsman (iOS Developer / Content Creator / Privacy Researcher)`**
+**`Digital Craftsman (iOS Developer / Privacy Researcher)`**
 
-I'm a Computer Engineering student at **UFRGS** and an **iOS Engineer** at **TELUS Digital**. I specialize in building high-scale mobile architectures, researching **Data Privacy**, and creating content on [YouTube][youtube].
+I'm a Computer Engineering student at **UFRGS** and an **iOS Engineer** at **TELUS Digital**. I specialize in building high-scale mobile architectures and researching **Data Privacy**.
 
 <p align="left">
-  <a href="https://www.youtube.com/@thiagoparisotto?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/YOUR_CHANNEL_ID?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
-  </a>
-  <a href="https://www.youtube.com/@thiagoparisotto">
-    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/YOUR_CHANNEL_ID?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/>
-  </a>
   <a href="https://github.com/tpdias?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/tpdias?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
@@ -46,32 +40,19 @@ I'm a Computer Engineering student at **UFRGS** and an **iOS Engineer** at **TEL
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-#
-
-### 📺 Latest YouTube Videos
-
-<!-- BEGIN YOUTUBE-CARDS -->
-<!-- END YOUTUBE-CARDS -->
-
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@thiagoparisotto?sub_confirmation=1)
-
-#
+---
 
 ### 📈 Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tpdias&show_icons=true&theme=radical&bg_color=0d1117&title_color=A317EE&icon_color=00FFFF&text_color=ffffff&border_color=A317EE" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tpdias&layout=compact&theme=radical&bg_color=0d1117&title_color=00FFFF&text_color=ffffff&border_color=00FFFF" width="48%" />
-</p>
+![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=tpdias&show_icons=true&theme=radical&bg_color=0d1117&title_color=A317EE&icon_color=00FFFF&text_color=ffffff&border_color=A317EE)
 
-#
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tpdias&layout=compact&theme=radical&bg_color=0d1117&title_color=00FFFF&text_color=ffffff&border_color=00FFFF)
+
+---
 
 ### 📡 Connect with me
 
 <p align="left">
-  <a href="https://www.youtube.com/@thiagoparisotto" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@thiagoparisotto" height="30" width="40" />
-  </a>
   <a href="https://linkedin.com/in/thiago-parisotto" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thiago-parisotto" height="30" width="40" />
   </a>
@@ -81,7 +62,5 @@ I'm a Computer Engineering student at **UFRGS** and an **iOS Engineer** at **TEL
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tpdias&color=A317EE&style=8-bit" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=tpdias&color=A317EE&style=flat-square" alt="Profile Views" />
 </p>
-
-[youtube]: https://youtube.com/@thiagoparisotto
