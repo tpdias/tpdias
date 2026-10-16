@@ -1,8 +1,10 @@
-# 👾 Thiago Parisotto | iOS Engineer & 2x Swift Challenge Winner
+# 👾 Thiago Parisotto | AI & ML · M.Sc. Data and Artificial Intelligence @ IP Paris
 
-**`Digital Craftsman (iOS Developer / Privacy Researcher)`**
+**`AI Researcher in the making (AI Reasoning / Explainable & Trustworthy AI)`**
 
-I'm a Computer Engineering student at **UFRGS** and an **iOS Engineer** at **TELUS Digital**. I specialize in building high-scale mobile architectures and researching **Data Privacy**.
+I'm an **M.Sc. student in Data and Artificial Intelligence** at **Institut Polytechnique de Paris** 🇫🇷, with a B.Sc. in Computer Engineering from **UFRGS** 🇧🇷. My research interests are **AI reasoning** and **explainable, trustworthy AI**. Before this I worked on **data privacy research** at the University of Stuttgart, and I spent several years as a software engineer, most recently shipping production code for *The Wall Street Journal* app.
+
+🔎 **Open to AI/ML roles and research positions from April 2027** · EU citizen (Italian) · based in the Paris area
 
 <p align="left">
   <a href="https://github.com/tpdias?tab=followers">
@@ -14,31 +16,66 @@ I'm a Computer Engineering student at **UFRGS** and an **iOS Engineer** at **TEL
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Swift_Student_Challenge-Distinguished_Winner_2025-A317EE?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-iOS_Engineer_@_Telus-00FFFF?style=for-the-badge&logo=ios&logoColor=black" />
+  <img src="https://img.shields.io/badge/M.Sc._Data_&_AI-IP_Paris-A317EE?style=for-the-badge&logo=academia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open_to-AI%2FML_Roles_·_Apr_2027-00FFFF?style=for-the-badge&logo=pytorch&logoColor=black" />
 </p>
+
+---
+
+### 🎓 Education
+
+* **M.Sc. Data and Artificial Intelligence**, Institut Polytechnique de Paris, France *(2026 – 2028, expected)*
+* **B.Sc. Computer Engineering**, UFRGS, Brazil *(2019 – 2026)*
+  * Thesis: **Croak: Piano Teacher**, an accessible piano-learning app with a real-time audio pipeline that runs Spotify's **Basic Pitch** model on-device for polyphonic note detection
+* **Exchange semester in Computer Science**, University of Stuttgart, Germany *(2025)*
+
+---
+
+### 🔬 Research & Experience
+
+* **Research Assistant, Data Privacy**, University of Stuttgart 🇩🇪
+  * Evaluated data anonymization models on the trade-off between disclosure risk and data utility
+  * Analyzed re-identification, attribute-disclosure and record-linkage attacks on anonymized datasets
+  * Benchmarked privacy-assessment tools (ARX, SURE, Anonymeter, PRUDEnce) with statistical metrics: KS test, Jensen–Shannon divergence, CDF comparison
+* **Software Engineer**, TELUS Digital: built features for *The Wall Street Journal* app, optimized API communication and AWS/Firebase integrations
+* **Developer**, Apple Developer Academy: shipped 10 apps to the App Store in cross-functional teams
 
 ---
 
 ### 🏆 Achievements
 
-* 🏆 **Apple Distinguished Winner 2025** (Top 50 Worldwide)
-* 🎓 Former Researcher at **University of Stuttgart**, Germany
-* 🍎 **Apple Developer Academy** Alumnus
+* 🏆 **Swift Student Challenge 2025, Distinguished Winner** (Apple). Invited to WWDC25 at Apple Park and featured in Apple Newsroom and O Globo
+* 🥇 **Swift Student Challenge 2024, Winner** (Apple)
+* ⚡ **Fundamentals of Accelerated Computing with OpenACC** (NVIDIA)
+* 🌍 **Principles and Practices of Global Innovation** (UFRGS × University of Southern California)
 
 ---
 
 ### 🛠️ Languages and Tools
 
+**ML & Data**
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/SwiftUI-00FFFF?style=for-the-badge&logo=swift&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-A317EE?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00FFFF?style=for-the-badge&logo=c%2B%2B&logoColor=black" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Statistical_Testing-00FFFF?style=for-the-badge&logo=databricks&logoColor=black" />
+  <img src="https://img.shields.io/badge/Privacy_%26_Anonymization-A317EE?style=for-the-badge&logo=letsencrypt&logoColor=white" />
+</p>
+
+**Engineering**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00FFFF?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenACC-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+
+🗣️ Portuguese (native) · English (C1) · German (B2) · Spanish (A2) · French (A1)
 
 ---
 
